@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arpitha-004/DSA/tree/master/0485-max-consecutive-ones) |
 | [1127-last-stone-weight](https://github.com/Arpitha-004/DSA/tree/master/1127-last-stone-weight) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arpitha-004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpitha-004/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Arpitha-004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 # Heap (Priority Queue)
 |  |
@@ -73,3 +75,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Arpitha-004/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Arpitha-004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+# Greedy
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+# Sorting
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+# Counting
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
