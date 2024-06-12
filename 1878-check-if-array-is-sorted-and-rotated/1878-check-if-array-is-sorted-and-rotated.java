@@ -1,6 +1,6 @@
 class Solution {
-    public boolean check(int[] nums) {
-        int n = nums.length;
+    public static boolean check(int[] nums) {
+       int n = nums.length;
        boolean isIncrease = true;
        int pivot = 0;
 
@@ -29,5 +29,9 @@ class Solution {
            }
        }
        return true;
+    }
+    public static void main(String args[]){
+        int[] nums={3,3,1,2,3};
+        System.out.println(check(nums));
     }
 }
