@@ -1,25 +1,35 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int n=nums.length;
-        ArrayList<Integer> temp = new ArrayList<>();
-        // copy non-zero elements
-        // from original -> temp array:
+        int j = -1;
+        int n = nums.length;
+
+        // Find the index of the first zero
         for (int i = 0; i < n; i++) {
-            if (nums[i] != 0)
-                temp.add(nums[i]);
+            if (nums[i] == 0) {
+                j = i;
+                break;
+            }
         }
 
-        // copy elements from temp
-        // fill first nz fields of
-        // original array:
-        for (int i = 0; i < temp.size(); i++) {
-            nums[i] = temp.get(i);
+        // If no zero is found, print the array and return
+        if (j == -1) {
+            for (int i = 0; i < n; i++) {
+                System.out.print(nums[i] + " ");
+            }
+            return;
         }
 
-        // fill rest of the cells with 0:
-        for (int i = temp.size(); i < n; i++) {
-            nums[i] = 0;
+        // Move non-zero elements to the front
+        for (int i = j + 1; i < n; i++) {
+            if (nums[i] != 0) {
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+                j++;
+            }
         }
+
+        // Print the modified array
         for (int i = 0; i < n; i++) {
             System.out.print(nums[i] + " ");
         }
