@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpitha-004/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arpitha-004/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Arpitha-004/DSA/tree/master/0070-climbing-stairs) |
 # Dynamic Programming
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Arpitha-004/DSA/tree/master/1078-remove-outermost-parentheses) |
