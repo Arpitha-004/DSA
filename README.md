@@ -7,6 +7,7 @@ A collection of gfg questions to ace the coding interview! - created using gfg t
 
 IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to understand different approaches like brute-force, average and optimal approaches
 
+
 # Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to unde
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arpitha-004/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpitha-004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1127-last-stone-weight](https://github.com/Arpitha-004/DSA/tree/master/1127-last-stone-weight) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arpitha-004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +24,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to unde
 | ------- |
 | [0001-two-sum](https://github.com/Arpitha-004/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpitha-004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Arpitha-004/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 # Heap (Priority Queue)
@@ -92,3 +95,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to unde
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Arpitha-004/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arpitha-004/DSA/tree/master/0560-subarray-sum-equals-k) |
