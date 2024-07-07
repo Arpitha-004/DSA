@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 A collection of gfg questions to ace the coding interview! - created using gfg to github extension
 
 
-IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to understand different approaches like brute-force, average and optimal approaches
+IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / history to understand different approaches like brute-force, average and optimal approaches
 
 
 # Array
