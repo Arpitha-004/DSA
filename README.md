@@ -99,3 +99,18 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits to unde
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Arpitha-004/DSA/tree/master/0560-subarray-sum-equals-k) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+<!---LeetCode Topics End-->
