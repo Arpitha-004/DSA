@@ -104,6 +104,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -112,6 +113,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 ## Database
 |  |
@@ -119,4 +121,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0620-not-boring-movies](https://github.com/Arpitha-004/DSA/tree/master/0620-not-boring-movies) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arpitha-004/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Arpitha-004/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
