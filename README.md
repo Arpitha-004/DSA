@@ -105,6 +105,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
@@ -153,5 +154,6 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
