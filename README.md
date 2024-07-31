@@ -106,11 +106,13 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -139,4 +142,16 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
