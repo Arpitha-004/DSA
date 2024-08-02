@@ -106,6 +106,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -165,4 +166,5 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
