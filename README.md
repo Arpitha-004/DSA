@@ -109,6 +109,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 ## Math
@@ -167,4 +168,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
